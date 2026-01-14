@@ -25,4 +25,3 @@ Escape the house by collecting all required items and reaching the final exit wi
 
 ---
 Made with ❤️ as a horror escape project.
-link:https://drive.google.com/drive/folders/1gzc9ocI1SROnPOwpOsfpHsYK1_bclUaZ?usp=drive_link
